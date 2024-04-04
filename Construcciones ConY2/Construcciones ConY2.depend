@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1712194602 source:c:\users\carlo\onedrive\desktop\construcciones cony2\src\persona.cpp
+	"persona.h"
+	<string>
+
+1712195225 c:\users\carlo\onedrive\desktop\construcciones cony2\include\persona.h
+	<string>
+
+1712195382 source:c:\users\carlo\onedrive\desktop\construcciones cony2\src\trabjador.cpp
+	"trabjador.h"
+	<iostream>
+	<string>
+
+1712195330 c:\users\carlo\onedrive\desktop\construcciones cony2\include\trabjador.h
+	<string>
+	"persona.h"
+
+1712195604 source:c:\users\carlo\onedrive\desktop\construcciones cony2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	"recursoshumanos.h"
+	<fstream>
+
+1712195486 c:\users\carlo\onedrive\desktop\construcciones cony2\include\recursoshumanos.h
+	"trabjador.h"
+	<string>
+	<vector>
+	<queue>
+
+1712195634 source:c:\users\carlo\onedrive\desktop\construcciones cony2\src\recursoshumanos.cpp
+	"recursoshumanos.h"
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	<fstream>
+
